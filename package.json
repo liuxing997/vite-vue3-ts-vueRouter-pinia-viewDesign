@@ -1,6 +1,8 @@
 {
-  "name": "vite-vue3-ts-vuerouter-pinia-viewdesign",
-  "version": "0.0.0",
+  "name": "{{projectName}}",
+  "version": "{{version}}",
+  "description": "{{description}}",
+  "author": "{{author}}",
   "private": true,
   "type": "module",
   "scripts": {
@@ -33,9 +35,5 @@
         "vue-router"
       ]
     }
-  },
-  "author": {
-    "name": "liuxing",
-    "email": "liuxing997@foxmail.com"
   }
 }
